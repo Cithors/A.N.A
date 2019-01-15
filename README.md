@@ -18,4 +18,4 @@ Les langages que l'on pense utiliser sont:
   - Le C#
   - Le shell (windows)
   
-Progression: ---------- 0%
+Progression: ![](http://progressed.io/bar/0)
