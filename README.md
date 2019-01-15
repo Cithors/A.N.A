@@ -18,7 +18,4 @@ Les langages que l'on pense utiliser sont:
   - Le C#
   - Le shell (windows)
   
-Barre de progression
-+----+
-| 0% |
-+----+
+Progression: ---------- 0%
