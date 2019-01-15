@@ -16,6 +16,6 @@ Les langages que l'on pense utiliser sont:
   - Le Python
   - Le C++
   - Le C#
-  - Le shell (windows)
+  - Le shell (windows, BASH)
   
 Progression: ![](http://progressed.io/bar/0)
