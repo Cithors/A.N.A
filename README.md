@@ -1,7 +1,7 @@
 # A.N.A
 
 Bienvenue !
-A.N.A est le diminutif de Alyx N' Ana, deux futures IA développées avec mon camarade de classe.
+A.N.A est le diminutif de Alyx N' Alice, deux futures IA développées avec mon camarade de classe.
 
 A.N.A aura des fonctionnalitées communes au deux IA.
 
